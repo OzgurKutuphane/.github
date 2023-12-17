@@ -3,17 +3,34 @@
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - Özgür Kütüphane Platformu tüm kitapların ve fikir eserlerinin özgürlüğü içindir.
+
 🌈 Contribution guidelines - Organizasyonumuzdaki bir projeyi çatallayıp sonrasında değişiklik isteği gönderebilirsiniz.
-👩‍💻 Useful resources - Belgelendirme ve diğer çalışmalar bu organizasyon deposunda tutulacaktır. Bunun haricinde https://codeberg.org/OzgurKutuphane ve https://sr.ht/~mertgor/OzgurKutuphane/ adreslerinde de varız.
+
+👩‍💻 Useful resources - Belgelendirme ve diğer çalışmalar aşağıdaki depolarda tutulacaktır :
+
+* https://codeberg.org/OzgurKutuphane 
+
+* https://git.disroot.org/OzgurKutuphane
+
+* https://git.vern.cc/OzgurKutuphane
+
+* https://sr.ht/~mertgor/OzgurKutuphane/ 
+
+* https://gitlab.com/masscollabs/ozgurkutuphane
+
+* https://github.com/OzgurKutuphane
+
 🍿 Fun facts - Kitaplar ve müzikler kahvesiz gitmiyor ne yazık ki ❤️ 
+
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # License
 
 Özgür Kütüphane Platformu tüm kitapların ve fikir eserlerinin özgürlüğü içindir.
 
-Copyright (C) 2023 Masscollabs Services
-Copyright (C) 2023 Özgür Kütüphane Topluluğu Yazarları ve İçerik üreticileri
+Copyright (C) 2023-2024 Masscollabs Services
+
+Copyright (C) 2023-2024 Özgür Kütüphane Topluluğu Yazarları ve İçerik üreticileri
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
