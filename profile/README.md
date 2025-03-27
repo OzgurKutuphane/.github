@@ -12,8 +12,6 @@
 
 * https://git.disroot.org/OzgurKutuphane
 
-* https://git.vern.cc/OzgurKutuphane
-
 * https://sr.ht/~mertgor/OzgurKutuphane/ 
 
 * https://gitlab.com/masscollabs/ozgurkutuphane
