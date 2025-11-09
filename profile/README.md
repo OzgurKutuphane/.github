@@ -8,6 +8,8 @@
 
 👩‍💻 Useful resources - Belgelendirme ve diğer çalışmalar aşağıdaki depolarda tutulacaktır :
 
+* https://source.masscollabs.xyz/ozgurkutuphanexyz
+
 * https://codeberg.org/OzgurKutuphane 
 
 * https://git.disroot.org/OzgurKutuphane
